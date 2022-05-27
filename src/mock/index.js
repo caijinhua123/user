@@ -1,0 +1,6 @@
+// import './banner.js'
+// import './blog.js'
+// import './setting'
+// import './about'
+// import './message'
+// import './project'
